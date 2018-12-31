@@ -7,7 +7,7 @@ Based on the [OctoPi Plugins Tutorial](http://docs.octoprint.org/en/master/plugi
 Install via the bundled [Plugin Manager](https://github.com/foosel/OctoPrint/wiki/Plugin:-Plugin-Manager)
 or manually using this URL:
 
-    https://github.com/xd1936/OctoPrint-iFrame/archive/master.zip
+    https://github.com/leoherzog/OctoPrint-iFrame/archive/master.zip
 
 ## Configuration
 
